@@ -10,7 +10,7 @@ Normal readme follows.
 
 # [Unitwise](//github.com/wizarddevelopment/unitwise)
 
-[![Gem Version](http://img.shields.io/gem/v/unitwise-193.svg?style=flat)](https://rubygems.org/gems/unitwise)
+[![Gem Version](http://img.shields.io/gem/v/unitwise-193.svg?style=flat)](https://rubygems.org/gems/unitwise-193)
 [![Build Status](http://img.shields.io/travis/wizarddevelopment/unitwise.svg?style=flat)](https://travis-ci.org/wizarddevelopment/unitwise)
 [![Dependency Status](http://img.shields.io/gemnasium/wizarddevelopment/unitwise.svg?style=flat)](https://gemnasium.com/wizarddevelopment/unitwise)
 [![Coverage Status](http://img.shields.io/coveralls/wizarddevelopment/unitwise.svg?style=flat)](https://coveralls.io/r/wizarddevelopment/unitwise)
