@@ -1,11 +1,20 @@
-# [Unitwise](//github.com/joshwlewis/unitwise)
+# Unitwise-193
 
-[![Gem Version](http://img.shields.io/gem/v/unitwise.svg?style=flat)](https://rubygems.org/gems/unitwise)
-[![Build Status](http://img.shields.io/travis/joshwlewis/unitwise.svg?style=flat)](https://travis-ci.org/joshwlewis/unitwise)
-[![Dependency Status](http://img.shields.io/gemnasium/joshwlewis/unitwise.svg?style=flat)](https://gemnasium.com/joshwlewis/unitwise)
-[![Coverage Status](http://img.shields.io/coveralls/joshwlewis/unitwise.svg?style=flat)](https://coveralls.io/r/joshwlewis/unitwise)
-[![Code Climate](http://img.shields.io/codeclimate/github/joshwlewis/unitwise.svg?style=flat)](https://codeclimate.com/github/joshwlewis/unitwise)
-![Analytics](https://ga-beacon.appspot.com/UA-49481499-1/joshwlewis/unitwise?pixel)
+This is a fork of Josh W Lewis's very cool Unitwise library. I've pushed it as a gem so that I can use it in a few situations where a git source isn't possible.
+
+Currently the only differences are that I've dropped support for ruby's pre 1.9.3 so I could upgrade dependencies as they were causing conflicts with other gems.
+
+Primarily this upgrades parslet and nori. If you can use the stock unitwise gem I highly recommend it.
+
+Normal readme follows.
+
+# [Unitwise](//github.com/wizarddevelopment/unitwise)
+
+[![Gem Version](http://img.shields.io/gem/v/unitwise-193.svg?style=flat)](https://rubygems.org/gems/unitwise)
+[![Build Status](http://img.shields.io/travis/wizarddevelopment/unitwise.svg?style=flat)](https://travis-ci.org/wizarddevelopment/unitwise)
+[![Dependency Status](http://img.shields.io/gemnasium/wizarddevelopment/unitwise.svg?style=flat)](https://gemnasium.com/wizarddevelopment/unitwise)
+[![Coverage Status](http://img.shields.io/coveralls/wizarddevelopment/unitwise.svg?style=flat)](https://coveralls.io/r/wizarddevelopment/unitwise)
+[![Code Climate](http://img.shields.io/codeclimate/github/wizarddevelopment/unitwise.svg?style=flat)](https://codeclimate.com/github/wizarddevelopment/unitwise)
 
 Unitwise is a Ruby library for unit measurement conversion and math.
 

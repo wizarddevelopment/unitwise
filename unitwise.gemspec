@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'unitwise/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = 'unitwise'
+  gem.name          = 'unitwise-193'
   gem.version       = Unitwise::VERSION
-  gem.authors       = ['Josh Lewis']
-  gem.email         = ['josh.w.lewis@gmail.com']
+  gem.authors       = ['Josh Lewis', 'Francis Gulotta']
+  gem.email         = ['francis@wizarddevelopment.com']
   gem.description   = 'Physical quantity and units of measure conversion '    \
                       'and math library'
-  gem.summary       = 'Convert between and perform mathematical operations '  \
+  gem.summary       = 'Fork of Unitwise to upgrade gems. Convert between and perform mathematical operations '  \
                       'on physical quantities and units of measure defined '  \
                       'by the Unified Code for Units of Measure.'
   gem.homepage      = 'http://github.com/joshwlewis/unitwise'
