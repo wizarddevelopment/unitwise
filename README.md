@@ -1,3 +1,7 @@
+# Oh hey! We're happily depriciated!
+
+[Unitwise](https://github.com/joshwlewis/unitwise) now does everything this fork does and we don't need it anymore! 
+
 # Unitwise-193
 
 This is a fork of Josh W Lewis's very cool Unitwise library. I've pushed it as a gem so that I can use it in a few situations where a git source isn't possible.
